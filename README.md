@@ -11,4 +11,3 @@ Batocera :
 \userdata\themes\
 
 **V 0.1 - (2024 01 16) - WIP**
-# More music to come ...
