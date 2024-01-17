@@ -12,6 +12,12 @@ RetroBat\emulationstation\.emulationstation\themes\
 Batocera :
 \userdata\themes\
 
+
 **V 0.2 - (2024 01 17) - Add New Song**
 
+
+
+
 **V 0.1 - (2024 01 16) - Initialization**
+
+
