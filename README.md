@@ -4,19 +4,15 @@ https://github.com/Snapouille/es-theme-Animatics-DX/blob/master/README.md
 
 The theme can be downloaded automatically from the Batocera or Retrobat content downloader.
 
-You have to put this folder "es-theme-Animatics-DX-Music" directly in the theme folder
+You have to put the folder "es-theme-Animatics-DX-Music" directly in the theme folder:
 
-Retrobat :
+For Retrobat:
 RetroBat\emulationstation\.emulationstation\themes\
 
-Batocera :
+For Batocera:
 \userdata\themes\
 
 
-**V 0.3 - (2024 01 19) - Add New Song**
-
-**V 0.2 - (2024 01 17) - Add New Song**
-
-**V 0.1 - (2024 01 16) - Initialization**
+**V 0.1 - (2024 01 23) - Initialization**
 
 
