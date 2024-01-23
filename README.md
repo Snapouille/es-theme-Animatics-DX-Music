@@ -33,3 +33,9 @@ Lien github du thème : *https://github.com/Snapouille/es-theme-Animatics-DX/blo
     Cliquer sur Code en haut à droite et download ZIP  
 
 ![2024-01-23 21_07_03-GitHub - Snapouille_es-theme-Animatics-DX-Music_ Music Add-on for the Emulation ](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/b9c077cc-75a8-47d4-bd56-6fbc630e04c4)
+
+## ____________________________________
+
+**WHO'S ON THE DECKS? QUI EST AUX PLATINES ?**
+
+![2024-01-23 21_41_16-@justjuice187 - Discord copie](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/997253c1-c69f-43b8-8817-e1caba71d5cb)
