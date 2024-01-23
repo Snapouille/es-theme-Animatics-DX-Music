@@ -28,7 +28,7 @@ Lien github du thème : *https://github.com/Snapouille/es-theme-Animatics-DX/blo
     BATOCERA:     \userdata\themes\
     
 **HOW TO DOWLOAD / COMMENT TELECHARGER :**
-Click to Code top right and download ZIP
-CLiquer sur Code en haut à droite et download ZIP
+    Click to Code top right and download ZIP
+    Cliquer sur Code en haut à droite et download ZIP
 
 ![2024-01-23 21_07_03-GitHub - Snapouille_es-theme-Animatics-DX-Music_ Music Add-on for the Emulation ](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/b9c077cc-75a8-47d4-bd56-6fbc630e04c4)
