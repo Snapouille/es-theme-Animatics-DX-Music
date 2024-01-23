@@ -1,5 +1,5 @@
 **Music Add-on for the Emulation Station theme : es-theme-Animatics-DX**
-https://github.com/Snapouille/es-theme-Animatics-DX/blob/master/README.md
+*https://github.com/Snapouille/es-theme-Animatics-DX/blob/master/README.md*
 
 The theme can be downloaded automatically from the Batocera or Retrobat content downloader.
 
