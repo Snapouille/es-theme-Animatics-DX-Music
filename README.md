@@ -11,12 +11,12 @@ The theme can be downloaded automatically from the Batocera or Retrobat content 
 Theme github link: *https://github.com/Snapouille/es-theme-Animatics-DX/blob/master/README.md*
 
 ***You have to put the folder "es-theme-Animatics-DX-Music" directly in the theme folder:***
+
     RETROBAT: 
     \retrobat\emulationstation\.emulationstation\themes\
     BATOCERA: 
     \userdata\themes\
     
-
 ## ![fr](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/c889ac90-f68b-4008-80ff-7d1903eed8eb) Complément musical pour le thème Emulation Station : es-theme-Animatics-DX
 Cet add-on vous permet d'avoir une musique de fond spécialement conçue pour accompagner les animations du thème.
 
@@ -25,8 +25,6 @@ Le thème peut être téléchargé automatiquement à partir du téléchargeur d
 Lien github du thème : *https://github.com/Snapouille/es-theme-Animatics-DX/blob/master/README.md*
 
 ***Vous devez placer le dossier "es-theme-Animatics-DX-Music" directement dans le dossier du thème:***
-
-
  
     RETROBAT: 
     \retrobat\emulationstation\.emulationstation\themes\
