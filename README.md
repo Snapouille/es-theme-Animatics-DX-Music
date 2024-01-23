@@ -34,6 +34,10 @@ Features :
 
     5 Animated System Views (Wheel-Animatics, Wheel, Simple, Vertical and Horizontal)
     10 Gamelist Views
+    RETROBAT: 
+    \retrobat\emulationstation\.emulationstation\themes\
+    BATOCERA: 
+    \userdata\themes\
     9 languages (German, Spanish, French, Italian, Japanese, Dutch, Polish, Portuguese and Russian)
     Regional Logos and Artwork (EU, US and JAP)
     16/9 Only, not compatible with 4/3 or 5/4 for now
