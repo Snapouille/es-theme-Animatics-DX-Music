@@ -4,9 +4,9 @@
 The theme can be downloaded automatically from the Batocera or Retrobat content downloader.
 
 ***You have to put the folder "es-theme-Animatics-DX-Music" directly in the theme folder:***
-- RETROBAT
-RetroBat\emulationstation\.emulationstation\themes\
-- BATOCERA
+- RETROBAT: 
+\retrobat\emulationstation\.emulationstation\themes\
+- BATOCERA: 
 \userdata\themes\
 
 
