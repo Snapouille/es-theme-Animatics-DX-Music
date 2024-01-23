@@ -26,7 +26,7 @@ Lien github du thème : *https://github.com/Snapouille/es-theme-Animatics-DX/blo
     BATOCERA:     \userdata\themes\
 
 
-
+## ____________________________________
   
 **HOW TO DOWNLOAD? / COMMENT TELECHARGER ?**  
     Click to Code top right and download ZIP  
