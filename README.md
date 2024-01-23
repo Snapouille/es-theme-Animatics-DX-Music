@@ -1,3 +1,6 @@
+
+![LOGO Plein ADD ON copie](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/4999f663-ec89-4ee2-96e1-65968688fa30)
+
 ## Music Add-on for the Emulation Station theme : es-theme-Animatics-DX
 This add-on gives you the option of having background music specially designed to go with the theme animations.
 
