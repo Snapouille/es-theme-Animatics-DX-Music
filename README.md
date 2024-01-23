@@ -25,6 +25,14 @@ Le thème peut être téléchargé automatiquement à partir du téléchargeur d
 Lien github du thème : *https://github.com/Snapouille/es-theme-Animatics-DX/blob/master/README.md*
 
 ***Vous devez placer le dossier "es-theme-Animatics-DX-Music" directement dans le dossier du thème:***
+
+
+    5 Animated System Views (Wheel-Animatics, Wheel, Simple, Vertical and Horizontal)
+    10 Gamelist Views
+    9 languages (German, Spanish, French, Italian, Japanese, Dutch, Polish, Portuguese and Russian)
+    Regional Logos and Artwork (EU, US and JAP)
+    16/9 Only, not compatible with 4/3 or 5/4 for now
+    Pi4 or more powerfull recommended
     RETROBAT: 
     \retrobat\emulationstation\.emulationstation\themes\
     BATOCERA: 
