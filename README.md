@@ -1,7 +1,6 @@
 
 ![LOGO Plein ADD ON copie](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/4999f663-ec89-4ee2-96e1-65968688fa30)
 
-**V 0.1 - (2024 01 23) - Initialization**
 
 ## ![gb](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/a1e80520-3bff-4ff7-9bbf-d96489424fc3) Music Add-on for the Emulation Station theme : es-theme-Animatics-DX
 This add-on gives you the option of having background music specially designed to go with the theme animations.  
@@ -38,4 +37,7 @@ Lien github du thème : *https://github.com/Snapouille/es-theme-Animatics-DX/blo
 
 **WHO'S ON THE DECKS? QUI EST AUX PLATINES ?**
 
-![2024-01-23 21_41_16-@justjuice187 - Discord copie](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/997253c1-c69f-43b8-8817-e1caba71d5cb)
+![2024-01-23 21_41_16-@justjuice187 - Discord copie](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/997253c1-c69f-43b8-8817-e1caba71d5cb)  
+
+**V 0.1 - (2024 01 23) - Initialization**  
+**V 0.2 - (2024 02 06) - Add New Songs**  
