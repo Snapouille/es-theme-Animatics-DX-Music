@@ -43,3 +43,4 @@ Lien github du thème : *https://github.com/Snapouille/es-theme-Animatics-DX/blo
 **V 0.2 - (2024 02 06) - Add New Songs**  
 **V 0.3 - (2024 03 16) - Add New Songs**  
 **V 0.4 - (2024 04 14) - Add New Songs**  
+**V 0.5 - (2024 11 13) - Add New Songs** 
