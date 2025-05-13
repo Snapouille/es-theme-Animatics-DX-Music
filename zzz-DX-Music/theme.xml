@@ -11,9 +11,9 @@ theme name: Animatics-DX-Add On Music
       <image name="background" extra="true">
          <origin>0 0</origin>
          <pos>0 0</pos>
-         <size>1 1</size>
-         <path>./_inc/images/background.png</path>
-         <zIndex>1</zIndex>
+         <size>0 1</size>
+         <path>./_inc/images/background.jpg</path>
+         <zIndex>1000</zIndex>
       </image>
    </view>
    <view name="system">
