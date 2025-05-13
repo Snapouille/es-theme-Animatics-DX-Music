@@ -1,8 +1,10 @@
 
-![LOGO Plein ADD ON copie](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/4999f663-ec89-4ee2-96e1-65968688fa30)
+![logos](https://github.com/user-attachments/assets/606c1d1f-c40d-4e69-8d6e-4a821a4b4eda)
 
 
-## ![gb](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/a1e80520-3bff-4ff7-9bbf-d96489424fc3) Music Add-on for the Emulation Station theme : es-theme-Animatics-DX
+## ![gb](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/a1e80520-3bff-4ff7-9bbf-d96489424fc3) Music Add-on for the Emulation Station theme : 
+- es-theme-Animatics-DX
+- Nomado-DX
 This add-on gives you the option of having background music specially designed to go with the theme animations.  
 The theme can be downloaded automatically from the Batocera or Retrobat content downloader.  
 Theme github link: *https://github.com/Snapouille/es-theme-Animatics-DX/blob/master/README.md*
@@ -11,10 +13,12 @@ Theme github link: *https://github.com/Snapouille/es-theme-Animatics-DX/blob/mas
 
     RETROBAT:     \retrobat\emulationstation\.emulationstation\themes\
     BATOCERA:     \userdata\themes\
-
+    KNULLI:       \themes\
 
   
-## ![fr](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/c889ac90-f68b-4008-80ff-7d1903eed8eb) Complément musical pour le thème Emulation Station : es-theme-Animatics-DX
+## ![fr](https://github.com/Snapouille/es-theme-Animatics-DX-Music/assets/105559045/c889ac90-f68b-4008-80ff-7d1903eed8eb) Complément musical pour le thème Emulation Station : 
+- es-theme-Animatics-DX
+- Nomado-DX
 Cet add-on vous permet d'avoir une musique d'ambiance spécialement conçue pour accompagner les animations du thème.  
 Le thème peut être téléchargé automatiquement à partir du téléchargeur de contenu Batocera ou Retrobat.  
 Lien github du thème : *https://github.com/Snapouille/es-theme-Animatics-DX/blob/master/README.md*
@@ -23,7 +27,7 @@ Lien github du thème : *https://github.com/Snapouille/es-theme-Animatics-DX/blo
  
     RETROBAT:     \retrobat\emulationstation\.emulationstation\themes\
     BATOCERA:     \userdata\themes\
-
+    KNULLI:       \themes\
 
 ## ____________________________________
   
