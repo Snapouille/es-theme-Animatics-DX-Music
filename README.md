@@ -11,7 +11,7 @@ This add-on gives you the option of having background music specially designed t
 The theme can be downloaded automatically from the Batocera or Retrobat content downloader.  
 Theme github link: *https://github.com/Snapouille/es-theme-Animatics-DX/blob/master/README.md*
 
-***You have to put the folder "es-theme-Animatics-DX-Music" directly in the theme folder:***
+***You have to put the folder "zzz-DX-Music" directly in the theme folder:***
 
     RETROBAT:     \retrobat\emulationstation\.emulationstation\themes\
     BATOCERA:     \userdata\themes\
@@ -26,7 +26,7 @@ Cet add-on vous permet d'avoir une musique d'ambiance spécialement conçue pour
 Le thème peut être téléchargé automatiquement à partir du téléchargeur de contenu Batocera ou Retrobat.  
 Lien github du thème : *https://github.com/Snapouille/es-theme-Animatics-DX/blob/master/README.md*
 
-***Vous devez placer le dossier "es-theme-Animatics-DX-Music" directement dans le dossier du thème:***
+***Vous devez placer le dossier "zzz-DX-Music" directement dans le dossier du thème:***
  
     RETROBAT:     \retrobat\emulationstation\.emulationstation\themes\
     BATOCERA:     \userdata\themes\
